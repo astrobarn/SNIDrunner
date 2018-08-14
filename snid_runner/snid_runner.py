@@ -3,7 +3,7 @@
 Created on Wed 16 2016
 Automating SNID for batch use to select redshift, type and age.
 Should work for any type but only tested for Ia's.
-@author: astrobarn
+@author: Seméli Papadogiannakis
 """
 import glob
 import os
